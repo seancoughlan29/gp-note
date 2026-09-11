@@ -1,8 +1,0 @@
-pyproject.toml
-src/gpnote/__init__.py
-src/gpnote/llm.py
-src/gpnote/main.py
-src/gpnote.egg-info/PKG-INFO
-src/gpnote.egg-info/SOURCES.txt
-src/gpnote.egg-info/dependency_links.txt
-src/gpnote.egg-info/top_level.txt
